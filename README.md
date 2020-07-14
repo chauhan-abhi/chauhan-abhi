@@ -19,3 +19,5 @@ Talk to me about
 - Dependecy Injection **Dagger 2**
 - Concurrency using **RxJava | Coroutines | Executors**
 - Backend development using **Node | Express**
+
+ <img src="https://github-readme-stats.vercel.app/api/?username=chauhan-abhi&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
