@@ -3,7 +3,6 @@
 ### Hi there 👋
 ## I'm Abhijeet Singh Chauhan
 ### An Android Developer exploring Flutter
-I'm Abhijeet, I'm a software engineer at India's biggest B2B marketplace(IndiaMART) 👨‍💻 who is passionate about mobile technologies highly experienced in Native Android Development.
 
 - 💻 Android Developer [@IndiaMART](https://www.indiamart.com/)
 - 🔭 I’m currently working on implementing clean architecture patterns in Lead Manager which connects 10M + Buyer-Sellers.
