@@ -1,14 +1,15 @@
-# Abhijeet Singh Chauhan  
+  
 
 ### Hi there 👋
-
+## I'm Abhijeet Singh Chauhan
+### An Android Developer exploring Flutter
 I'm Abhijeet, I'm a software engineer at India's biggest B2B marketplace(IndiaMART) 👨‍💻 who is passionate about mobile technologies highly experienced in Native Android Development.
-🏄‍♂️.
 
-- 🔭 I’m currently working on implementing clean architecture patterns in Modern Android Development...
-- 🌱 I’m currently learning Design Patterns and architecture of streaming apps.
+- 💻 Android Developer [@IndiaMART](https://www.indiamart.com/)
+- 🔭 I’m currently working on implementing clean architecture patterns in Lead Manager which connects 10M + Buyer-Sellers.
+- 🌱 I’m currently learning Design Patterns and architecture of Audio streaming apps.
 - 👯 I’m looking to collaborate on Android | Flutter
-- 🤔 I’m looking for help with development of streaming apps
+- 🤔 I’m looking for help with development of Audio streaming apps
 - 💬 Ask me about Dagger | Rx | Coroutines | Jetpack
 - ⚡ Fun fact: Die hard Harry Potter fan
 
@@ -20,4 +21,9 @@ Talk to me about
 - Concurrency using **RxJava | Coroutines | Executors**
 - Backend development using **Node | Express**
 
- <img src="https://github-readme-stats.vercel.app/api/?username=chauhan-abhi&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=chauhan-abhi&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=242424" width="100%"/>
+
+##
+### Connect with me:
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/andro__abhi) [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/chauhan-abhi/)
