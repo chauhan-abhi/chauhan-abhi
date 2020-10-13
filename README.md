@@ -4,8 +4,8 @@
 ## I'm Abhijeet Singh Chauhan
 ### An Android Developer exploring Flutter
 
-- 💻 Android Developer [@IndiaMART](https://www.indiamart.com/)
-- 🔭 I’m currently working on implementing clean architecture patterns in Lead Manager which connects 10M + Buyer-Sellers.
+- 💻 Android Developer [@Tokopedia](https://www.tokopedia.com/)
+- 🔭 I’m currently working on implementing clean architecture patterns.
 - 🌱 I’m currently learning Design Patterns and architecture of Audio streaming apps.
 - 👯 I’m looking to collaborate on Android | Flutter
 - 🤔 I’m looking for help with development of Audio streaming apps
