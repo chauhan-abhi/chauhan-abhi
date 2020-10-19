@@ -4,9 +4,9 @@
 ## I'm Abhijeet Singh Chauhan
 ### An Android Developer exploring Flutter
 
-- 💻 Android Developer [@Tokopedia](https://www.tokopedia.com/)
+- 💻 Software Engineer-Android [@Tokopedia](https://www.tokopedia.com/)
 - 🔭 I’m currently working on implementing clean architecture patterns.
-- 🌱 I’m currently learning Design Patterns and architecture of Audio streaming apps.
+- 🌱 I’m currently learning Design Pattern and GraphQL in Android.
 - 👯 I’m looking to collaborate on Android | Flutter
 - 🤔 I’m looking for help with development of Audio streaming apps
 - 💬 Ask me about Dagger | Rx | Coroutines | Jetpack
@@ -25,4 +25,4 @@ Talk to me about
 
 ##
 ### Connect with me:
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/andro__abhi) [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/chauhan-abhi/)
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/andro__abhi) [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/chauhan-abhi/)[<img src="https://img.icons8.com/windows/32/000000/github.png" width="3.5%"/>](https://github.com/chauhan-abhi-toko)
