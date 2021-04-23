@@ -5,20 +5,21 @@
 ### An Android Developer exploring Flutter
 
 - 💻 Software Engineer-Android [@Tokopedia](https://www.tokopedia.com/)
-- 🔭 I’m currently working on implementing clean architecture patterns.
-- 🌱 I’m currently learning Design Pattern and GraphQL in Android.
-- 👯 I’m looking to collaborate on Android | Flutter
-- 🤔 I’m looking for help with development of Audio streaming apps
+- 🔭 I’m currently working on implementing clean architecture patterns in Android.
+- 🌱 I’m currently learning Design Patterns and Android Testing.
+- 👯 I’m looking to collaborate on Android
+- 🤔 I’m looking for help with development Streaming apps
 - 💬 Ask me about Dagger | Rx | Coroutines | Jetpack
 - ⚡ Fun fact: Die hard Harry Potter fan
 
 ## ⚡ Technologies
 Talk to me about
-- Mobile application development using **Android (Java or Kotlin) | Flutter**
-- Architectural design patterns used **MVVM | MVP**
-- Dependecy Injection **Dagger 2**
-- Concurrency using **RxJava | Coroutines | Executors**
-- Backend development using **Node | Express**
+- Mobile application development **Android (Java|Kotlin) | Flutter**
+- Architectural design patterns  **MVVM | MVP**
+- Dependecy Injection            **Dagger 2 | Hilt**
+- Concurrency                    **RxJava | Coroutines | Executors**
+- Backend development using      **Node**
+- Testing                        **JUnit | Mockito | MockK| Espresso**
 
 ##
 ### Connect with me:
