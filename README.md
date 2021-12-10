@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on implementing clean architecture patterns in Android.
 - 🌱 I’m currently learning Design Patterns and Android Testing.
 - 👯 I’m looking to collaborate on Android
-- 🤔 I’m looking for help with development Streaming apps
+- 🤔 I’m looking for help with development React Native
 - 💬 Ask me about Dagger | Rx | Coroutines | Jetpack
 - ⚡ Fun fact: Die hard Harry Potter fan
 
@@ -36,19 +36,9 @@ Talk to me about
 
 
 <a href="https://github.com/chauhan-abhi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chauhan-abhi&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/chauhan-abhi">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chauhan-abhi&show_icons=true&theme=light&line_height=27" alt="Abhijeet's github stats"/>
 </a>  
-  
-<a href="https://github.com/chauhan-abhi/modern-news-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chauhan-abhi&repo=modern-news-app&theme=light" />
-
-</a>
-<a href="https://github.com/chauhan-abhi/flutter_playground">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chauhan-abhi&repo=flutter_playground&theme=light" />
-</a>
+ 
 
 <div align="center">
 
