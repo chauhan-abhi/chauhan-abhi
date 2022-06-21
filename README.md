@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 ## I'm Abhijeet Singh Chauhan
-### An Android Developer exploring Flutter
+### An Android Developer exploring Design Patterns
 
-- 💻 Software Engineer-Android [@Tokopedia](https://www.tokopedia.com/)
+- 💻 SDE-2 Android [@Zomato](https://play.google.com/store/apps/details?id=com.application.zomato&hl=en_IN&gl=US)
 - 🔭 I’m currently working on implementing clean architecture patterns in Android.
 - 🌱 I’m currently learning Design Patterns and Android Testing.
 - 👯 I’m looking to collaborate on Android
