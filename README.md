@@ -4,17 +4,17 @@
 ## I'm Abhijeet Singh Chauhan
 ### An Android Developer exploring Design Patterns
 
-- 💻 SDE-2 Android [@Zomato](https://play.google.com/store/apps/details?id=com.application.zomato&hl=en_IN&gl=US)
+- 💻 Mobile Engineer-2(Android) [@Expedia](https://play.google.com/store/apps/details?id=com.expedia.bookings&hl=en_IN&gl=US&pli=1)
 - 🔭 I’m currently working on implementing clean architecture patterns in Android.
-- 🌱 I’m currently learning Design Patterns and Android Testing.
+- 🌱 I’m currently learning Design Patterns and [Jetpack Compose](https://developer.android.com/jetpack).
 - 👯 I’m looking to collaborate on Android
-- 🤔 I’m looking for help with development React Native
+- 🤔 I’m looking for help with development Jetpack Compose
 - 💬 Ask me about Dagger | Rx | Coroutines | Jetpack
 - ⚡ Fun fact: Die hard Harry Potter fan
 
 ## ⚡ Technologies
 Talk to me about
-- Mobile application development **Android (Java|Kotlin) | Flutter**
+- Mobile application development **Android (Java|Kotlin) | Jetpack Compose | Flutter**
 - Architectural design patterns  **MVVM | MVP**
 - Dependecy Injection            **Dagger 2 | Hilt**
 - Concurrency                    **RxJava | Coroutines | Executors**
