@@ -4,8 +4,8 @@
 ## I'm Abhijeet Singh Chauhan
 ### An Android Engineer exploring Jetpack Compose
 
-- 💻 Mobile Engineer-2(Android) [@Expedia](https://play.google.com/store/apps/details?id=com.expedia.bookings&hl=en_IN&gl=US&pli=1)
-- 🔭 I’m currently working on implementing clean architecture patterns in Android.
+- 💻 SDE-3(Android) [@Expedia](https://play.google.com/store/apps/details?id=com.expedia.bookings&hl=en_IN&gl=US&pli=1)
+- 🔭 I’m currently working on implementing micro feature architecture patterns in Android.
 - 🌱 I’m currently learning Design Patterns and [Jetpack Compose](https://developer.android.com/jetpack/compose).
 - 👯 I’m looking to collaborate on Android
 - 🤔 I’m looking for help with the app performance measuring tools
