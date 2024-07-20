@@ -1,7 +1,7 @@
-  
+## Hi 👋, I am Abhijeet
+![image](https://img.shields.io/badge/Kotlin-766DB2?&style=for-the-badge&logo=kotlin&logoColor=white)
+![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### Hi there 👋
-## I'm Abhijeet Singh Chauhan
 ### An Android Engineer exploring Jetpack Compose
 
 - 💻 SDE-3(Android) [@Expedia](https://play.google.com/store/apps/details?id=com.expedia.bookings&hl=en_IN&gl=US&pli=1)
@@ -22,19 +22,9 @@ Talk to me about
 
 ##
 ### Connect with me:
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/andro__abhi) [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/chauhan-abhi/)[<img src="https://img.icons8.com/windows/32/000000/github.png" width="3.5%"/>](https://github.com/chauhan-abhi-toko)
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/andro__abhi) [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/chauhan-abhi/)[<img src="https://img.icons8.com/windows/32/000000/github.png" width="3.5%"/>](https://github.com/chauhan-abhi-toko)  
 
 
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://github.com/chauhan-abhi/chauhan-abhi/assets/20797673/a333aab0-0c24-44cb-980a-de0c006ff031"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
-
- 
 
 <div align="center">
 
