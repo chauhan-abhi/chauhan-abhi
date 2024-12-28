@@ -4,18 +4,17 @@
 
 ### An Android Engineer exploring Jetpack Compose
 
-- 💻 SDE-3(Android) [@Expedia](https://play.google.com/store/apps/details?id=com.expedia.bookings&hl=en_IN&gl=US&pli=1)
-- 🔭 I’m currently working on implementing micro feature architecture patterns in Android.
+- 💻 SDE-3(Android) [@Expedia](https://play.google.com/store/apps/details?id=com.expedia.bookings&hl=en_IN&gl=US&pli=1) | Ex-Tokopedia
+- 🔭 I’m currently working on implementing [Micro-feature architecture patterns](https://github.com/chauhan-abhi/MicroFeatureCodeLab) in Android.
 - 🌱 I’m currently learning Design Patterns and [Jetpack Compose](https://developer.android.com/jetpack/compose).
 - 👯 I’m looking to collaborate on Android
 - 🤔 I’m looking for help with the app performance measuring tools
-- 💬 Ask me about Dagger | Rx | Coroutines | Jetpack
+- 💬 Ask me about DI | Rx | Coroutines | Jetpack Libraries
 - ⚡ Fun fact: Die-hard Harry Potter fan
 
 ## ⚡ Technologies
 Talk to me about
-- Mobile application development **Android | Kotlin | Jetpack Compose | Flutter**
-- Architectural design patterns  **MVVM | MVP**
+- Mobile application development **Android | Kotlin | Jetpack Compose**
 - Dependency Injection           **Dagger 2 | Hilt**
 - Concurrency                    **RxJava | Coroutines | Executors**
 - Testing                        **JUnit | Mockito | MockK| Espresso | Roboelectric**
